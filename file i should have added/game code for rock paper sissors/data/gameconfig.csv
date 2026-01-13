@@ -1,0 +1,20 @@
+game_name,Rock Paper Scissors
+max_rounds,3
+countdown_seconds,3
+rock_shape,circle
+paper_shape,square
+scissors_shape,triangle
+red_player_color,255,0,0
+blue_player_color,0,0,255
+panel_width,1280
+panel_height,720
+refresh_rate,60
+default_port,1337
+shape_size,100
+button_width,200
+button_height,150
+title_font_size,64
+body_font_size,32
+button_font_size,28
+countdown_font_size,200
+score_font_size,36
